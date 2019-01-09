@@ -1,5 +1,7 @@
 .idea/
 py3env/
 __pycache__/
-cards.db
+*.pyc
 config-personal.txt
+cards.db
+env
